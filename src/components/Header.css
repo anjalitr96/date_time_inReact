@@ -1,0 +1,11 @@
+.head{
+    color:red;
+}
+.headSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+    gap: 2rem;
+}
